@@ -1,0 +1,33 @@
+﻿# Python cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Datasets and local user data
+data/
+dataset/
+datasets/
+captures/
+Captures/
+user_uploads/
+uploads/
+recordings/
+
+# Webcam video files
+*.mp4
+*.avi
+*.mov
+
+# Windows and system files
+Thumbs.db
+.DS_Store

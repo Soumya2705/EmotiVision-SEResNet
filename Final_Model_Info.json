@@ -1,0 +1,25 @@
+{
+    "project": "Facial Emotion Recognition",
+    "selected_model": "EXP05_Batch64",
+    "architecture": "FER_SEResNetScratch",
+    "training_type": "From Scratch",
+    "parameters": 1994263,
+    "input_size": [
+        48,
+        48
+    ],
+    "input_channels": 1,
+    "classes": [
+        "angry",
+        "disgust",
+        "fear",
+        "happy",
+        "neutral",
+        "sad",
+        "surprise"
+    ],
+    "best_epoch": 72,
+    "validation_macro_f1": 0.6620067366148051,
+    "validation_accuracy": 0.6635376403460335,
+    "checkpoint_file": "FER_Final_Model.pth"
+}
