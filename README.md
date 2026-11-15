@@ -2,24 +2,33 @@
 <div align="center">
 
 <h1>
-  <a href="PASTE_YOUR_DEPLOYED_WEBSITE_URL_HERE">
+  <a href="https://emotivision-seresnet.streamlit.app/">
     🚀 OPEN EMOTIVISION — LIVE WEB APP
   </a>
 </h1>
 
-<p><strong>Click above to explore the Facial Emotion Recognition Application</strong></p>
+<p>
+  <strong>Experience AI-Powered Facial Emotion Recognition Live!</strong>
+</p>
+
+<p>
+  <a href="https://emotivision-seresnet.streamlit.app/">
+    <img src="https://img.shields.io/badge/TRY_LIVE_APP-Click_Here-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  </a>
+</p>
 
 <p>
   <img src="https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-2.2.2-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-1.67.0-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge" />
 </p>
 
 </div>
 
 ---
 
-# EmotiVision — Facial Emotion Recognition
+# 😊 EmotiVision — Facial Emotion Recognition
 
 A Deep Learning-based Facial Emotion Recognition (FER) project using a custom **SEResNet architecture trained from scratch** with PyTorch.
 
@@ -27,7 +36,7 @@ EmotiVision detects facial expressions from images and webcam input and classifi
 
 ## ✨ Key Features
 
-- **7-Class Emotion Recognition:** Detects seven different facial expressions.
+- **7-Class Emotion Recognition:** Recognizes seven different facial expressions.
 - **Live Webcam Detection:** Real-time facial expression prediction using a webcam.
 - **Photo Mode:** Capture a photo and view its predicted emotion and confidence score.
 - **Video Mode:** Record video and perform facial expression detection.
@@ -38,7 +47,7 @@ EmotiVision detects facial expressions from images and webcam input and classifi
 
 ## 😊 Emotion Classes
 
-The model recognizes the following seven emotion categories:
+The model recognizes seven emotion categories:
 
 | Class | Emotion |
 |---|---|
@@ -211,5 +220,15 @@ Facial emotion predictions are model estimates and should not be treated as defi
 **Built with Python, PyTorch and Deep Learning.**
 
 ⭐ Thank you for visiting EmotiVision-SEResNet!
+
+<p>
+  <a href="https://github.com/Soumya2705/EmotiVision-SEResNet">
+    GitHub Repository
+  </a>
+  |
+  <a href="https://emotivision-seresnet.streamlit.app/">
+    Live Application
+  </a>
+</p>
 
 </div>
